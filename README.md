@@ -13,6 +13,6 @@ make
 make install
 ```
 
-# Thanks
+## Thanks
 
 Many thanks to [Jonathan Tanner](https://github.com/aDifferentJT) for his help in writing this library.
